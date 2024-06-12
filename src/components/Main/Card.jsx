@@ -1,5 +1,3 @@
-import  mainCss from "./Main.module.css"
-
 function Card(){
     return(
         <>
