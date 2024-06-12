@@ -6,9 +6,11 @@ function App() {
 
   return (
     <>
-      
+      <body>
       <Main/>
       <Footer/>
+      </body>
+     
       
       
     </>
